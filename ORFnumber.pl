@@ -1,6 +1,6 @@
 #! /usr/bin/perl -w
 ##lina 2013.9.
-##calculate the ORF numbers
+##calculate the ORF numbers for each seq
 
 use Bio::SeqIO;
 use strict;
